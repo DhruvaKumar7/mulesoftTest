@@ -1,1 +1,1 @@
-Create a folder sqlite in C drive and run the code.
+Create a folder named sqlite in C drive and run the code.
