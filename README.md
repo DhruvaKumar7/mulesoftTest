@@ -1,2 +1,1 @@
-MuleSoft Test
-Create a floder sqlite in C drive and run the code.
+Create a folder sqlite in C drive and run the code.
